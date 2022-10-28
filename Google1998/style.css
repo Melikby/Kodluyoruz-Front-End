@@ -1,0 +1,164 @@
+.container{
+    background-color: red;
+    width: 300px;
+    height: 80px;
+    padding: 0px 500px;
+}
+.logo{
+    margin-left:35%; 
+    margin-right:35%;
+}
+
+.back-color{
+    background-color: rgb(223, 219, 219);
+}
+.text{
+    padding: 0px 100px;
+}
+.text-box{
+    background-color: white;
+    width: 400px;
+    height: 20px;
+    margin: 0px -80px;
+    border: 2px solid rgb(214, 212, 212);
+    box-shadow: 2px 2px 8px 2px #888888;
+}
+.search-button{
+    background-color:rgb(175, 175, 175);
+    padding-left: 1%;
+    padding-right: 1%;
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 20px;
+    margin: 2px 20px;
+    border-radius: 4px;
+    background: white;
+    box-shadow: 2px 2px 8px 2px #888888;
+    transition-duration: 0.4s;
+}
+.lucky-button{
+    background-color:rgb(175, 175, 175);
+    padding-left: 1%;
+    padding-right: 1%;
+    color: rgb(0, 0, 0);
+    width: 130px;
+    height: 20px;
+    margin: -22px 130px;
+    border-radius: 4px;
+    background: white;
+    box-shadow: 2px 2px 8px 2px #888888;
+}
+.text-ort{
+    margin-left:10%; 
+    margin-right:10%;
+}
+
+
+
+/* Special Start*/
+.containerx{
+    background-color: rgb(43, 134, 253);
+    width:  200px;
+    height: 100px;
+    padding-top: 20px;
+    padding-right: 10%;
+    padding-left: 10%;
+    border-radius: 2px;
+}
+.text-Special{
+    padding-left: 8%;
+    padding-right: 10%;
+    margin: -80px 10px;
+}
+.text-Stan{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: -80px 10px;
+}
+.text-Lin{
+    padding-left: 14%;
+    padding-right: 10%;
+    margin: -80px 10px;
+}
+
+/* Special Final*/
+
+
+
+/* Help Start*/
+.help-container{
+    background-color: rgb(43, 134, 253);
+    width:  100px;
+    height: 80px;
+    padding-top: 40px;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin: -120px 455px;
+    border-radius: 2px;
+}
+.text-about{
+    padding-left: 35px;
+    padding-right: 0px;
+    margin: -80px 550px;
+}
+.text-company{
+    padding-left: 35px;
+    padding-right: 0px;
+    margin: -80px 550px;
+}
+.text-logos{
+    padding-left: 35px;
+    padding-right: 0px;
+    margin: -80px 550px;
+}
+.text-help{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: -80px 550px;
+}
+/* Help Final*/
+
+/* Mail Start*/
+.mail-container{
+    background-color: rgb(43, 134, 253);
+    width:  205px;
+    height: 80px;
+    padding-top: 40px;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin: -90px 810px;
+    border-radius: 2px;
+}
+.mail-box{
+    background-color: white;
+    width: 200px;
+    height: 20px;
+    margin: 0px 930px;
+    border: 2px solid rgb(214, 212, 212);
+    box-shadow: 2px 2px 8px 2px #888888;
+}
+
+.subscribe-button{
+    background-color:rgb(175, 175, 175);
+    padding-left: 1%;
+    padding-right: 1%;
+    color: rgb(0, 0, 0);
+    width: 70px;
+    height: 20px;
+    margin:  5px 935px;
+    border-radius: 4px;
+    background: white;
+    box-shadow: 2px 2px 8px 2px #888888;
+}
+.archive{
+    
+    margin:auto 1050px;
+}
+.text-mail{
+    padding-left: 930px;
+
+}
+/* Mail Final*/
+.text-copy{
+    padding-left: 540px;
+}
